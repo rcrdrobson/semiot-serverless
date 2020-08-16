@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"https://github.com/rcrdrobson/semiot-serverless/src/docker"
+	"github.com/rcrdrobson/semiot-serverless/src/docker"
 )
 
 const poolSize = 10
