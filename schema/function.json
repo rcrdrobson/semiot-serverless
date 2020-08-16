@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+        "action": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "code": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "package": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}
